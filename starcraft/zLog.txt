@@ -1,0 +1,163 @@
+<=====Welcome to Starcraft III=====>
+------------------------------------
+<==Team A==>
+Marine (Ground|80)
+Firebat (Ground|100)
+Marine (Ground|80)
+Firebat (Ground|100)
+Marine (Ground|80)
+------------------------------------
+<==Team B==>
+Dragoon (Ground|90/30)
+Scout (Air|100/40)
+Dragoon (Ground|90/30)
+Scout (Air|100/40)
+Scout (Air|100/40)
+------------------------------------
+One day, Protosses attacked Terrans...
+Dragoon (Ground|90/30) attacks Marine (Ground|80) >>>>> Marine (Ground|60)
+Scout (Air|100/40) attacks Firebat (Ground|100) >>>>> Firebat (Ground|92)
+Dragoon (Ground|90/30) attacks Marine (Ground|80) >>>>> Marine (Ground|60)
+Scout (Air|100/40) attacks Firebat (Ground|100) >>>>> Firebat (Ground|92)
+Scout (Air|100/40) attacks Marine (Ground|80) >>>>> Marine (Ground|72)
+
+And... Terrans decided to AVENGE.
+Marine (Ground|60) attacks Dragoon (Ground|90/30) >>>>> Dragoon (Ground|90/18)
+Firebat (Ground|92) attacks Scout (Air|100/40) >>>>> Scout (Air|100/40)
+Marine (Ground|60) attacks Dragoon (Ground|90/30) >>>>> Dragoon (Ground|90/18)
+Firebat (Ground|92) attacks Scout (Air|100/40) >>>>> Scout (Air|100/40)
+Marine (Ground|72) attacks Scout (Air|100/40) >>>>> Scout (Air|100/28)
+
+And the war began...
+
+Protoss randomly attacked Terran that is possible...
+Dragoon (Ground|90/18) attacks Firebat (Ground|92) >>>>> Firebat (Ground|72)
+Scout (Air|100/28) attacks Marine (Ground|60) >>>>> Marine (Ground|52)
+Scout (Air|100/40) attacks Firebat (Ground|72) >>>>> Firebat (Ground|64)
+Scout (Air|100/40) attacks Marine (Ground|60) >>>>> Marine (Ground|52)
+Dragoon (Ground|90/18) attacks Marine (Ground|52) >>>>> Marine (Ground|32)
+
+Terran randomly attacked Protoss that is possible...
+Firebat (Ground|64) attacks Dragoon (Ground|90/18) >>>>> Dragoon (Ground|90/0)
+Marine (Ground|52) attacks Scout (Air|100/28) >>>>> Scout (Air|100/16)
+Marine (Ground|32) attacks Scout (Air|100/40) >>>>> Scout (Air|100/28)
+Marine (Ground|32) attacks Dragoon (Ground|90/18) >>>>> Dragoon (Ground|90/6)
+Firebat (Ground|64) attacks Dragoon (Ground|90/0) >>>>> Dragoon (Ground|72/0)
+
+Protoss randomly attacked Terran that is possible...
+Scout (Air|100/16) attacks Marine (Ground|72) >>>>> Marine (Ground|64)
+Scout (Air|100/16) attacks Firebat (Ground|92) >>>>> Firebat (Ground|84)
+Dragoon (Ground|90/6) attacks Firebat (Ground|64) >>>>> Firebat (Ground|44)
+Scout (Air|100/40) attacks Marine (Ground|52) >>>>> Marine (Ground|44)
+Scout (Air|100/16) attacks Marine (Ground|44) >>>>> Marine (Ground|36)
+
+Terran randomly attacked Protoss that is possible...
+Marine (Ground|64) attacks Scout (Air|100/16) >>>>> Scout (Air|100/4)
+Firebat (Ground|44) attacks Dragoon (Ground|90/6) >>>>> Dragoon (Ground|78/0)
+Marine (Ground|36) attacks Scout (Air|100/40) >>>>> Scout (Air|100/28)
+Marine (Ground|36) attacks Scout (Air|100/4) >>>>> Scout (Air|92/0)
+Marine (Ground|64) attacks Scout (Air|92/0) >>>>> Scout (Air|80/0)
+
+Protoss randomly attacked Terran that is possible...
+Scout (Air|80/0) attacks Marine (Ground|64) >>>>> Marine (Ground|56)
+Scout (Air|80/0) attacks Firebat (Ground|84) >>>>> Firebat (Ground|76)
+Dragoon (Ground|78/0) attacks Firebat (Ground|44) >>>>> Firebat (Ground|24)
+Scout (Air|100/28) attacks Marine (Ground|36) >>>>> Marine (Ground|28)
+Scout (Air|80/0) attacks Marine (Ground|28) >>>>> Marine (Ground|20)
+
+Terran randomly attacked Protoss that is possible...
+Marine (Ground|20) attacks Dragoon (Ground|72/0) >>>>> Dragoon (Ground|60/0)
+Marine (Ground|32) attacks Scout (Air|100/28) >>>>> Scout (Air|100/16)
+Marine (Ground|32) attacks Dragoon (Ground|78/0) >>>>> Dragoon (Ground|66/0)
+Marine (Ground|32) attacks Scout (Air|80/0) >>>>> Scout (Air|68/0)
+Marine (Ground|32) attacks Scout (Air|68/0) >>>>> Scout (Air|56/0)
+
+Protoss randomly attacked Terran that is possible...
+Scout (Air|56/0) attacks Firebat (Ground|76) >>>>> Firebat (Ground|68)
+Dragoon (Ground|60/0) attacks Marine (Ground|20) >>>>> Marine (Ground|0)
+Scout (Air|100/16) attacks Firebat (Ground|68) >>>>> Firebat (Ground|60)
+Dragoon (Ground|66/0) attacks Firebat (Ground|60) >>>>> Firebat (Ground|40)
+
+Terran randomly attacked Protoss that is possible...
+Firebat (Ground|40) attacks Dragoon (Ground|66/0) >>>>> Dragoon (Ground|48/0)
+Marine (Ground|32) attacks Scout (Air|100/16) >>>>> Scout (Air|100/4)
+Firebat (Ground|24) attacks Dragoon (Ground|60/0) >>>>> Dragoon (Ground|42/0)
+Firebat (Ground|40) attacks Dragoon (Ground|42/0) >>>>> Dragoon (Ground|24/0)
+Marine (Ground|32) attacks Scout (Air|100/28) >>>>> Scout (Air|100/16)
+
+Protoss randomly attacked Terran that is possible...
+Dragoon (Ground|48/0) attacks Firebat (Ground|40) >>>>> Firebat (Ground|20)
+Scout (Air|100/4) attacks Marine (Ground|32) >>>>> Marine (Ground|24)
+Dragoon (Ground|24/0) attacks Firebat (Ground|24) >>>>> Firebat (Ground|4)
+Dragoon (Ground|24/0) attacks Firebat (Ground|20) >>>>> Firebat (Ground|0)
+
+Terran randomly attacked Protoss that is possible...
+Marine (Ground|24) attacks Scout (Air|100/16) >>>>> Scout (Air|100/4)
+Marine (Ground|56) attacks Scout (Air|100/4) >>>>> Scout (Air|92/0)
+Marine (Ground|56) attacks Dragoon (Ground|48/0) >>>>> Dragoon (Ground|36/0)
+Marine (Ground|56) attacks Dragoon (Ground|36/0) >>>>> Dragoon (Ground|24/0)
+Marine (Ground|24) attacks Scout (Air|92/0) >>>>> Scout (Air|80/0)
+
+Protoss randomly attacked Terran that is possible...
+Scout (Air|100/4) attacks Marine (Ground|24) >>>>> Marine (Ground|16)
+Scout (Air|80/0) attacks Marine (Ground|56) >>>>> Marine (Ground|48)
+Dragoon (Ground|24/0) attacks Marine (Ground|48) >>>>> Marine (Ground|28)
+
+Terran randomly attacked Protoss that is possible...
+Marine (Ground|16) attacks Scout (Air|100/4) >>>>> Scout (Air|92/0)
+Marine (Ground|28) attacks Scout (Air|80/0) >>>>> Scout (Air|68/0)
+Marine (Ground|28) attacks Dragoon (Ground|24/0) >>>>> Dragoon (Ground|12/0)
+Marine (Ground|28) attacks Dragoon (Ground|12/0) >>>>> Dragoon (Ground|0/0)
+
+Protoss randomly attacked Terran that is possible...
+Scout (Air|68/0) attacks Firebat (Ground|4) >>>>> Firebat (Ground|0)
+Scout (Air|56/0) attacks Marine (Ground|28) >>>>> Marine (Ground|20)
+
+Terran randomly attacked Protoss that is possible...
+Marine (Ground|20) attacks Scout (Air|68/0) >>>>> Scout (Air|56/0)
+Marine (Ground|20) attacks Scout (Air|56/0) >>>>> Scout (Air|44/0)
+Marine (Ground|16) attacks Scout (Air|92/0) >>>>> Scout (Air|80/0)
+Marine (Ground|20) attacks Scout (Air|80/0) >>>>> Scout (Air|68/0)
+
+Protoss randomly attacked Terran that is possible...
+Scout (Air|44/0) attacks Marine (Ground|16) >>>>> Marine (Ground|8)
+Scout (Air|44/0) attacks Marine (Ground|20) >>>>> Marine (Ground|12)
+
+Terran randomly attacked Protoss that is possible...
+Marine (Ground|8) attacks Scout (Air|44/0) >>>>> Scout (Air|32/0)
+Marine (Ground|12) attacks Scout (Air|32/0) >>>>> Scout (Air|20/0)
+Marine (Ground|8) attacks Scout (Air|20/0) >>>>> Scout (Air|8/0)
+Marine (Ground|12) attacks Scout (Air|56/0) >>>>> Scout (Air|44/0)
+
+Protoss randomly attacked Terran that is possible...
+Scout (Air|8/0) attacks Marine (Ground|8) >>>>> Marine (Ground|0)
+
+Terran randomly attacked Protoss that is possible...
+Marine (Ground|12) attacks Scout (Air|8/0) >>>>> Scout (Air|0/0)
+Marine (Ground|12) attacks Scout (Air|44/0) >>>>> Scout (Air|32/0)
+Marine (Ground|12) attacks Scout (Air|68/0) >>>>> Scout (Air|56/0)
+
+Protoss randomly attacked Terran that is possible...
+Scout (Air|32/0) attacks Marine (Ground|12) >>>>> Marine (Ground|4)
+
+Terran randomly attacked Protoss that is possible...
+Marine (Ground|4) attacks Dragoon (Ground|24/0) >>>>> Dragoon (Ground|12/0)
+Marine (Ground|4) attacks Dragoon (Ground|12/0) >>>>> Dragoon (Ground|0/0)
+
+Protoss randomly attacked Terran that is possible...
+Scout (Air|56/0) attacks Marine (Ground|4) >>>>> Marine (Ground|0)
+
+
+<<============================>>
+After a long period of war...
+The last warrior of the Terrans has GONE!
+And the Protosses WON!
+<=====The End=====>
+
+----------------------------------
+	==STARCRAFT==
+A game by:
+1612288. Nguyen Khac Nguyen Khang
+1612291. Nguyen Thi Ngan Khanh
+1612296. Ta Ngoc Duy Khoa
+<<16CTT2-IT-HCMUS>>
